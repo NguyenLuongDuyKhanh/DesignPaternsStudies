@@ -1,0 +1,34 @@
+# DesignPaternsStudies
+Discover the modern implementation of design patterns in Python - Dmitri Nesteruk
+
+SOLID Design Principles: 
+Single Responsibility Principle, 
+Open-Closed Principle, 
+Liskov Substitution Principle, 
+Interface Segregation Principle 
+Dependency Inversion Principle
+
+Creational Design Patterns: 
+Builder, 
+Factories (Factory Method and Abstract Factory), 
+Prototype and Singleton
+
+Structrural Design Patterns: 
+Adapter, 
+Bridge, 
+Composite, 
+Decorator, 
+Façade, 
+Flyweight and Proxy
+
+Behavioral Design Patterns: 
+Chain of Responsibility, 
+Command, 
+Interpreter, 
+Iterator, 
+Mediator, 
+Memento,
+Observer, 
+State, 
+Strategy, 
+Template Method and Visitor
