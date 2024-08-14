@@ -1,6 +1,6 @@
-import multiton
+import DesignPaternsStudies.GangOfFour_Creational.Creational.Singleton.Ex3_Multiton1 as Ex3_Multiton1
 
-class TestMultiton(metaclass=multiton.MultitonMetaFactory(0, (1, lambda x: x[1]), kw_b=None) ):
+class TestMultiton(metaclass=Ex3_Multiton1.MultitonMetaFactory(0, (1, lambda x: x[1]), kw_b=None) ):
     def __init__(self, a, b, kw_a=None, kw_b=None) -> None:
         self.a = a
         self.b = b
