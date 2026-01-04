@@ -42,3 +42,4 @@ Studies and example in this repository are obtained mainly from [Refactoring Gur
 
 
 ## DRY Principle - Don't repeat yourself
+It is opposite with WET - Write Every Twice/We Enjoy Typings
